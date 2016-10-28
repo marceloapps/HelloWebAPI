@@ -75,3 +75,12 @@ C:\Users\Marcelo\documents\visual studio 2015\Projects\HelloWebAPI\HelloWebAPI\b
 C:\Users\Marcelo\documents\visual studio 2015\Projects\HelloWebAPI\HelloWebAPI\obj\Debug\HelloWebAPI.csprojResolveAssemblyReference.cache
 C:\Users\Marcelo\documents\visual studio 2015\Projects\HelloWebAPI\HelloWebAPI\obj\Debug\HelloWebAPI.dll
 C:\Users\Marcelo\documents\visual studio 2015\Projects\HelloWebAPI\HelloWebAPI\obj\Debug\HelloWebAPI.pdb
+C:\Users\Marcelo\documents\visual studio 2015\Projects\HelloWebAPI\HelloWebAPI\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Marcelo\documents\visual studio 2015\Projects\HelloWebAPI\HelloWebAPI\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Marcelo\documents\visual studio 2015\Projects\HelloWebAPI\HelloWebAPI\bin\Microsoft.Practices.Unity.dll
+C:\Users\Marcelo\documents\visual studio 2015\Projects\HelloWebAPI\HelloWebAPI\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\Marcelo\documents\visual studio 2015\Projects\HelloWebAPI\HelloWebAPI\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Marcelo\documents\visual studio 2015\Projects\HelloWebAPI\HelloWebAPI\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Marcelo\documents\visual studio 2015\Projects\HelloWebAPI\HelloWebAPI\bin\Microsoft.Practices.Unity.xml
+C:\Users\Marcelo\documents\visual studio 2015\Projects\HelloWebAPI\HelloWebAPI\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\Marcelo\documents\visual studio 2015\Projects\HelloWebAPI\HelloWebAPI\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
